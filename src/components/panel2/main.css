@@ -1,0 +1,41 @@
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    height: 70px;
+    width: 159vh;
+  }
+  
+  .button-container {
+    flex: 1;
+  }
+  
+  .profile-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4285f4;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .profile-button:hover {
+    background-color: #357ae8;
+  }
+  
+  .profile-picture-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-picture {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  

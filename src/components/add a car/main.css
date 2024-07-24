@@ -1,0 +1,76 @@
+.Cars {
+}
+.container {
+}
+.cars-inner {
+}
+.cars-list {
+  margin-top: 20px;
+}
+.cars-item-list {
+    display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.cars-h2 {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+.cars-btn {
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  border: none;
+  background: #2a85ff;
+  color: aliceblue;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.cars-a {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  text-decoration: none;
+  color: black;
+}
+.cars-p {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: -0.01em;
+  text-align: center;
+  /* padding-left: -60px; */
+}
+.cars-p:nth-child(1){
+    /* margin-left: 20px; */
+}
+.cars-item-p{
+}
+.cars-link-list {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.carsitem-p {
+  font-family: Inter;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  text-align: center;
+}
